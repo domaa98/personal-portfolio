@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.9c458fb4.css",
+    "main.js": "/personal-portfolio/static/js/main.388e829e.js",
+    "static/media/netflix-clone.jpg": "/personal-portfolio/static/media/netflix-clone.e95d14409fe689c46e01.jpg",
+    "static/media/Movies-app.jpg": "/personal-portfolio/static/media/Movies-app.bfd3c84270e7973962bd.jpg",
+    "static/media/tourly.jpg": "/personal-portfolio/static/media/tourly.0aa8d7c30bec07b394aa.jpg",
+    "static/media/coffe-shop.jpg": "/personal-portfolio/static/media/coffe-shop.ffb2a5db14c0f4fde0b1.jpg",
+    "static/media/food-app.jpg": "/personal-portfolio/static/media/food-app.7b4cc6161b30dc8e58fd.jpg",
+    "static/media/microsoft-clone.jpg": "/personal-portfolio/static/media/microsoft-clone.b4a81206f398a7d46983.jpg",
+    "static/media/Book-store.jpg": "/personal-portfolio/static/media/Book-store.4ca9eda07595fd7eab58.jpg",
+    "static/media/crud.jpg": "/personal-portfolio/static/media/crud.81751d56a2d1d0614e4d.jpg",
+    "static/media/todo-list.jpg": "/personal-portfolio/static/media/todo-list.2aff2c4d42e2d0ba7d4c.jpg",
+    "static/media/Mohamed_Hassan Eldoma_Resume.pdf": "/personal-portfolio/static/media/Mohamed_Hassan Eldoma_Resume.9721cb4c1a8cd08891f1.pdf",
+    "static/media/react.png": "/personal-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/personal-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/personal-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/personal-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/personal-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/personal-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/personal-portfolio/index.html",
+    "main.9c458fb4.css.map": "/personal-portfolio/static/css/main.9c458fb4.css.map",
+    "main.388e829e.js.map": "/personal-portfolio/static/js/main.388e829e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c458fb4.css",
+    "static/js/main.388e829e.js"
+  ]
+}
