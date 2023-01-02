@@ -17,7 +17,7 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
       <div>
-       <Link to='home' smooth={true} duration={500}> <span className='text-3xl pl-10 font-bold cursor-pointer'>Doma.</span> </Link>
+       <Link to='home' smooth={true} duration={500}> <span className='text-3xl pl-5 font-bold cursor-pointer'>Doma.</span> </Link>
       </div>
 
       {/* menu */}
